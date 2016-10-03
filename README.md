@@ -15,7 +15,7 @@ By using the container elements you can easly position the controls where you wa
 
 Install the plugin like you would install any regular Python package from source:
 
-    pip install https://github.com/Salandora/octoprint-customControl/archive/master.zip
+    pip install https://github.com/Robo3D/octoprint-customControl/archive/master.zip
     
 Make sure you use the same Python environment that you installed OctoPrint under, otherwise the plugin
 won't be able to satisfy its dependencies.
