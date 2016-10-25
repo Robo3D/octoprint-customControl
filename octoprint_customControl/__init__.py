@@ -51,12 +51,12 @@ class CustomControlPlugin(octoprint.plugin.SettingsPlugin,
 
                 # version check: github repository
                 type="github_release",
-                user="Salandora",
+                user="Robo3D",
                 repo="octoprint-customControl",
                 current=self._plugin_version,
 
                 # update method: pip
-                pip="https://github.com/Salandora/octoprint-customControl/archive/{target_version}.zip"
+                pip="https://github.com/Robo3D/octoprint-customControl/archive/{target_version}.zip"
             )
         )
 
