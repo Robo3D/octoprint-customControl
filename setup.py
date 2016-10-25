@@ -17,20 +17,20 @@ plugin_package = "octoprint_%s" % plugin_identifier
 plugin_name = "OctoPrint-CustomControlPlugin"
 
 # The plugin's version. Can be overwritten within OctoPrint's internal data via __plugin_version__ in the plugin module
-plugin_version = "0.2.1"
+plugin_version = "0.2.7"
 
 # The plugin's description. Can be overwritten within OctoPrint's internal data via __plugin_description__ in the plugin
 # module
 plugin_description = "Makes Custom Controls editable via settings"
 
 # The plugin's author. Can be overwritten within OctoPrint's internal data via __plugin_author__ in the plugin module
-plugin_author = "Marc Hannappel (Salandora)"
+plugin_author = "Robo3D"
 
 # The plugin's author's mail address.
 plugin_author_email = "salandora@gmail.com"
 
 # The plugin's homepage URL. Can be overwritten within OctoPrint's internal data via __plugin_url__ in the plugin module
-plugin_url = "https://github.com/Salandora/octoprint-customControl"
+plugin_url = "https://github.com/Robo3D/octoprint-customControl"
 
 # The plugin's license. Can be overwritten within OctoPrint's internal data via __plugin_license__ in the plugin module
 plugin_license = "AGPLv3"
